@@ -5,7 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Yash_123e?label=Follow)](https://twitter.com/intent/follow?screen_name=Yash_123e)
 [![Linkedin: yash](https://img.shields.io/badge/-yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashrajoria/)](https://www.linkedin.com/in/yashrajoria/)
-![GitHub followers](https://img.shields.io/github/followers/yashrajoria03?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/yashrajoria3?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yashrajoria.netlify.app/)](https://yashrajoria.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=yashrajoria03.yashrajoria03)
 
